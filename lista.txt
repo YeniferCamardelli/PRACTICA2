@@ -6,3 +6,5 @@ comestibles
 55
 99
 63
+arroz
+azucar
